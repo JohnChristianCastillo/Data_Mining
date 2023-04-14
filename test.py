@@ -32,3 +32,9 @@ The goal is to maximize the revenue
 make use of the library: sklearn
 first use decision trees to solve this problem
 """
+import pandas as pd
+
+# read the data
+existing_customers = pd.read_excel("01_existing-customers.xlsx")
+potential_customers = pd.read_excel("01_potential-customers.xlsx")
+
