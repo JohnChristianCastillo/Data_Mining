@@ -1,0 +1,3 @@
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/cmake-build-debug/CMakeFiles/df.dir
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/cmake-build-debug/CMakeFiles/rebuild_cache.dir

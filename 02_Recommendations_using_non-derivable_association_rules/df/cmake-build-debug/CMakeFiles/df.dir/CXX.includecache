@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/data.h
+stdio.h
+-
+
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/item.h
+vector
+-
+set
+-
+
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/ndi.h
+set
+-
+
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/testndi.cpp
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+data.h
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/data.h
+item.h
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/item.h
+ndi.h
+C:/Users/yanok/Desktop/Data_Mining/02_Recommendations_using_non-derivable_association_rules/df/ndi.h
+
